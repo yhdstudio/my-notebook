@@ -1,0 +1,17 @@
+{
+  "name": "智匯記事本",
+  "short_name": "智匯記事",
+  "description": "多功能智匯記事與待辦管家",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3176/3176366.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
